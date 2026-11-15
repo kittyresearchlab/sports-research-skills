@@ -1,0 +1,6 @@
+interface:
+  display_name: "Reddit Sports Research"
+  short_description: "Find sports leads, verify sources, and preserve context"
+  default_prompt: "Use $reddit-sports-research to collect useful Reddit sports discussions and turn them into an attributed research digest."
+policy:
+  allow_implicit_invocation: true
